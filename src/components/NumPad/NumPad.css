@@ -1,0 +1,11 @@
+.num-pad {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 80vh;
+    max-height: 800px;
+}
+
+.num-pad-container {
+    width: 100%;
+}

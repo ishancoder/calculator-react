@@ -1,0 +1,11 @@
+.disp {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 100%;
+    font-size: 8em;
+    color: white;
+    padding-right: 20px;
+    box-sizing: border-box;
+    height: 20vh;
+}
